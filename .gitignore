@@ -1,0 +1,24 @@
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.db
+env/
+.venv/
+venv/
+.virtualenv/
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# DB
+test.db
+*.sqlite3
+
+# Migrations
+alembic/versions/*.pyc
